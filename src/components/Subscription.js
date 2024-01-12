@@ -17,7 +17,7 @@ function Subscription() {
   )
 }
 
-export default Subscription
+// export default Subscription
 
 const Container = styled.div`
     height: 60vh;
